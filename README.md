@@ -27,11 +27,10 @@ Building **Embedded Systems (STM32 / LoRa)**, **Edge AI**, and **GraphRAG develo
 
 ---
 
-### Highlights & Leadership
+### Highlights 
 
 * **Patent Pending:** Off-grid LoRa worker safety & mesh telemetry architecture (*VIGIL-X*)
 * **Hackathons & Presentations:** Neo4j Graph Builder Build Sprint (Bengaluru), InnovateX 4.0, KCEM Hackathon
-* **Campus Leadership:** Co-Lead, Social Media & Publicity — Entrepreneurship Cell (E-Cell), CIT Bengaluru
 
 ---
 
