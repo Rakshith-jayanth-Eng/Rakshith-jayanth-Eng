@@ -3,7 +3,7 @@
 **Electronics & Communication Engineering Undergrad @ Cambridge Institute of Technology, Bengaluru**  
 Building **Embedded Systems (STM32 / LoRa)**, **Edge AI**, and **GraphRAG developer tools**.
 
-📫 [rakshith.jayanth.in@gmail.com](mailto:rakshith.jayanth.in@gmail.com) · [LinkedIn](YOUR_LINKEDIN_URL) · 📍 Bengaluru, India
+📫 [E-mail](mailto:rakshith.jayanth.in@gmail.com) · [LinkedIn](www.linkedin.com/in/rakshith-jayanth-5b3a68428) · 📍 Bengaluru, India
 
 ---
 
